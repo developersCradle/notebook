@@ -7,9 +7,9 @@ I was working as an developer/programmer in a game project called [Toy Trail](ht
 
 Rights were sold to Mediaholvi osk. I do not have rights to the product or code anymore. Here some old pictures and [video](https://youtu.be/2ItnT4k01Cs).
 
-![kuva2](https://github.com/developersCradle/MyProjects/blob/master/schoolProject%20Toy%20Trail/kuva2.PNG)
-![kuva5](https://github.com/developersCradle/MyProjects/blob/master/schoolProject%20Toy%20Trail/kuva5.PNG)
-![kuva3](https://github.com/developersCradle/MyProjects/blob/master/schoolProject%20Toy%20Trail/kvua3.PNG)
+![kuva2](https://github.com/developersCradle/notebook/blob/main/kuva2.PNG)
+![kuva5](https://github.com/developersCradle/notebook/blob/main/kuva5.PNG)
+![kuva3](https://github.com/developersCradle/notebook/blob/main/kuva3.PNG)
 
 - C#, unity, local git, pelipaja, 
 - Effects [itween](http://www.pixelplacement.com/itween/index.php)
